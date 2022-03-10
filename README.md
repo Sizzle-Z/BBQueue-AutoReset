@@ -4,7 +4,6 @@ Hi! Thanks for looking at my repo! This is just a simple lua scripts that runs a
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSizzle-Z%2FBBQueue-AutoReset&count_bg=%238406D5&title_bg=%23372B5C&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
 ## :ledger: Index
 
-- [About](#beginner-about)
 - [Usage](#zap-usage)
   - [Installation](#electric_plug-installation)
 - [Development](#wrench-development)
@@ -12,9 +11,6 @@ Hi! Thanks for looking at my repo! This is just a simple lua scripts that runs a
   - [File Structure](#file_folder-file-structure) 
 - [FAQ](#question-faq)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
-
-##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
 
 ## :zap: Usage
 Leave your server on and it should reset your queue at the set time in the config file.
