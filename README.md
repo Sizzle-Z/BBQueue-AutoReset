@@ -61,4 +61,4 @@ Add a file structure here with the basic details about files, below is an exampl
 ## :star2: Credit/Acknowledgment
 Made by Sizzle#0007
 
-!(https://www.gnu.org/graphics/gplv3-127x51.png)
+![GPL License](https://www.gnu.org/graphics/gplv3-127x51.png)
