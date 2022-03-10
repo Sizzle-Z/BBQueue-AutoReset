@@ -58,4 +58,3 @@ Leave your server on and it should reset your queue at the set time in the confi
 Made by Sizzle#0007
 
 ![GPL License](https://www.gnu.org/graphics/gplv3-127x51.png)
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
