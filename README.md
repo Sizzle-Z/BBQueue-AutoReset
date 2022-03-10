@@ -22,15 +22,10 @@ Leave your server on and it should reset your queue at the set time in the confi
 - Edit the config to suit your needs
 - Put in your config 'ensure BBQueue-AutoReset' or whatever you named the resource
 
-```
-$ add installations steps if you have to.
-```
-
 
 ##  :wrench: Development
 
 ### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
 - A FiveM Server
 - A Brain
 - [BB-Queue](https://github.com/BarBaroNN/bb-queue)
@@ -39,7 +34,6 @@ List all the pre-requisites the system needs to develop this project.
 
 
 ###  :file_folder: File Structure
-Add a file structure here with the basic details about files, below is an example.
 
 ```
 │   config.lua
