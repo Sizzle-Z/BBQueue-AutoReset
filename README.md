@@ -1,8 +1,5 @@
 # Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
-
+Hi! Thanks for looking at my repo! This is just a simple lua scripts that runs a command that resets your queue at a certain time (Configurable). 
 ## :ledger: Index
 
 - [About](#beginner-about)
