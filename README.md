@@ -18,7 +18,7 @@ Leave your server on and it should reset your queue at the set time in the confi
 ###  :electric_plug: Installation
 - Add the resource to your server
 - Edit the config to suit your needs
-- Put in your config 'ensure BBQueue-AutoReset' or whatever you named the resource
+- Put in your config 'ensure Sizzle-AutoReset' or whatever you named the resource
 
 
 ##  :wrench: Development
